@@ -1,0 +1,136 @@
+[{
+	"id":1,
+	"mBoolean": false,
+	"errorMessage": null,
+	"data": [
+		{
+			"role_name": "admin",
+			"permission_name": "dashboard_view"
+		},
+		{
+			"role_name": "admin",
+			"permission_name": "profile_edit"
+		},
+		{
+			"role_name": "admin",
+			"permission_name": "view_profile"
+		},
+		{
+			"role_name": "admin",
+			"permission_name": "view_history"
+		},
+		{
+			"role_name": "admin",
+			"permission_name": "view_report"
+		},
+		{
+			"role_name": "admin",
+			"permission_name": "manage_users"
+		},
+		{
+			"role_name": "admin",
+			"permission_name": "manage_activities"
+		},
+		{
+			"role_name": "admin",
+			"permission_name": "current_activities"
+		},
+		{
+			"role_name": "admin",
+			"permission_name": "ambulance_stats"
+		},
+		{
+			"role_name": "admin",
+			"permission_name": "search_users"
+		},
+		{
+			"role_name": "admin",
+			"permission_name": "create_users"
+		},
+		{
+			"role_name": "admin",
+			"permission_name": "update_users"
+		},
+		{
+			"role_name": "admin",
+			"permission_name": "update_accident_report"
+		},
+		{
+			"role_name": "admin",
+			"permission_name": "assign_ambulance"
+		},
+		{
+			"role_name": "admin",
+			"permission_name": "authorized_login"
+		}
+	]
+},
+{
+	"mBoolean": false,
+	"errorMessage": null,
+	"id":2,
+	"data": [
+		{
+			"role_name": "citizen",
+			"permission_name": "dashboard_view"
+		},
+		{
+			"role_name": "citizen",
+			"permission_name": "profile_edit"
+		},
+		{
+			"role_name": "citizen",
+			"permission_name": "report_accident"
+		},
+		{
+			"role_name": "citizen",
+			"permission_name": "view_profile"
+		},
+		{
+			"role_name": "citizen",
+			"permission_name": "call_ambulance"
+		},
+		{
+			"role_name": "citizen",
+			"permission_name": "view_history"
+		}
+	]
+},{
+	"mBoolean": false,
+	"errorMessage": null,
+	"id":3,
+	"data": [
+		{
+			"role_name": "ambulance",
+			"permission_name": "dashboard_view"
+		},
+		{
+			"role_name": "ambulance",
+			"permission_name": "view_profile"
+		},
+		{
+			"role_name": "ambulance",
+			"permission_name": "view_history"
+		},
+		{
+			"role_name": "ambulance",
+			"permission_name": "pick_up"
+		},
+		{
+			"role_name": "ambulance",
+			"permission_name": "drop_off"
+		},
+		{
+			"role_name": "ambulance",
+			"permission_name": "alert_options"
+		},
+		{
+			"role_name": "ambulance",
+			"permission_name": "update_accident_report"
+		},
+		{
+			"role_name": "ambulance",
+			"permission_name": "authorized_login"
+		}
+	]
+}]

@@ -1,0 +1,22 @@
+# Python files
+*.py linguist-detectable=false
+
+# Java files
+*.java linguist-detectable=true
+
+# HTML and CSS
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+
+# JavaScript files
+*.js linguist-detectable=false
+
+# TypeScript JSX files
+*.tsx linguist-detectable=false
+
+
+# Exclude common assets
+*.png linguist-detectable=false
+*.jpg linguist-detectable=false
+*.svg linguist-detectable=false
+*.json linguist-detectable=false
